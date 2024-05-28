@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ffvkRNuHGfYa284aMm3iEoJYBBGVhqUMH6XYGqkLYfcwLoyYJWY46I4bJU7LuuGBT6EOmvX+pTUh8gCn2m4vhA==",
+  "dgSpecHash": "K4zTOtgbXgdCF5L0reozrHQ6My39tHOVGX/QxAWADGema1L3QkBNtpgx/0gwYzIJOYuuNUfaAx2rsJK5RVMP3g==",
   "success": true,
-  "projectFilePath": "D:\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
+  "projectFilePath": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\97798\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\97798\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
