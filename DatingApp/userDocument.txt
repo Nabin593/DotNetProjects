@@ -6,3 +6,4 @@
 --> Add-Migration _migration_name
 --> Remove-Migration
 
+4. seeding data in the databases --> add data and generate using jsongenerator
