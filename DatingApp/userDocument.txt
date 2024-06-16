@@ -1,0 +1,8 @@
+----This is the 8th part of video---
+1. first we extend the appUsermodel.
+2. we added the DateTimeExtension class and also added the photos class.
+3. Adding the relationships using the EF-core.
+---command for migration using visual studio 2022---
+--> Add-Migration _migration_name
+--> Remove-Migration
+
