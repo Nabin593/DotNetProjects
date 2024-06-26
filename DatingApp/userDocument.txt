@@ -7,3 +7,12 @@
 --> Remove-Migration
 
 4. seeding data in the databases --> add data and generate using jsongenerator
+-- issues while seeding the data in the table
+ 5. Implementation of Repository-pattern in the project.
+
+
+
+---This is the part 9 of the video---
+
+1. first we design the member.ts file which declare the member data interface.
+2. 

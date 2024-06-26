@@ -21,6 +21,9 @@ namespace DatingApp.Extensions
             services.AddCors();
             // This is  used to add the interface and the token services method
             services.AddScoped<ITokenService, TokenService>();
+            //Adding the scope to the users.
+            services.AddScoped<IUserRepository, UserRepository>();
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             return services;
         }
