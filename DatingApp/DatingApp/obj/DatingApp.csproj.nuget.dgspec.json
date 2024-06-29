@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj": {}
+    "C:\\Users\\97798\\Downloads\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj": {}
   },
   "projects": {
-    "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj": {
+    "C:\\Users\\97798\\Downloads\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
+        "projectUniqueName": "C:\\Users\\97798\\Downloads\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
         "projectName": "DatingApp",
-        "projectPath": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
-        "packagesPath": "C:\\Users\\Namaste\\.nuget\\packages\\",
-        "outputPath": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\obj\\",
+        "projectPath": "C:\\Users\\97798\\Downloads\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
+        "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\97798\\Downloads\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Namaste\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -105,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
