@@ -10,15 +10,15 @@ namespace DatingApp.Entities
         public byte[] PasswordHash { get; set; }    
         public byte[] PasswordSalt { get; set; }
         public DateOnly DateOfBirth { get; set; }
-        public string KnownAs { get; set; }
+        public string KnownAs { get; set; } = string.Empty;
         public DateTime Created { get; set; } = DateTime.UtcNow;
         public DateTime LastActive { get; set; } = DateTime.UtcNow;
-        public String Gender { get; set; }
-        public string Introduction { get; set; }
-        public string LookingFor { get; set; }
-        public string Interests { get; set; }
-        public string City { get; set; }
-        public string Country { get; set; }
+        public String Gender { get; set; } = "Male";
+        public string Introduction { get; set; } = string.Empty;
+        public string LookingFor { get; set; } = string.Empty;
+        public string Interests { get; set; } = string.Empty;
+        public string City { get; set; } = string.Empty;
+        public string Country { get; set; } = string.Empty;
         public List<Photo> Photos { get; set; } = new();
         /// <summary>
         /// This method Calculate age of the  users from the DOB

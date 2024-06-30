@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\",
+  "WorkspaceRootPath": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|e:\\worktree\\dotnet\\dotnetprojects\\datingapp\\datingapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|e:\\worktree\\dotnet\\dotnetprojects\\datingapp\\datingapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|e:\\worktree\\dotnet\\dotnetprojects\\datingapp\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\dtos\\registerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\dtos\\registerdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|e:\\worktree\\dotnet\\dotnetprojects\\datingapp\\datingapp\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\dtos\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\errors\\apiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,67 +50,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DatingApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:35:30.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "DatingApp\\appsettings.Development.json",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\appsettings.Development.json",
+              "RelativeToolTip": "DatingApp\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T16:03:13.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\Controllers\\UsersController.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "DatingApp\\Controllers\\UsersController.cs",
-              "ToolTip": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Controllers\\UsersController.cs",
               "RelativeToolTip": "DatingApp\\Controllers\\UsersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:58:37.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:58:37.052Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "TokenService.cs",
-              "DocumentMoniker": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\Services\\TokenService.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "DatingApp\\Services\\TokenService.cs",
-              "ToolTip": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\Services\\TokenService.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Services\\TokenService.cs",
               "RelativeToolTip": "DatingApp\\Services\\TokenService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAtwCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T09:40:09.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\Program.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Program.cs",
               "RelativeDocumentMoniker": "DatingApp\\Program.cs",
-              "ToolTip": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\Program.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Program.cs",
               "RelativeToolTip": "DatingApp\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-26T09:39:55.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "DatingApp\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "DatingApp\\DTOs\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:51:26.122Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "DatingApp\\Entities\\AppUser.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Entities\\AppUser.cs",
+              "RelativeToolTip": "DatingApp\\Entities\\AppUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA4wAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:35:46.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDtos.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DTOs\\RegisterDtos.cs",
+              "RelativeDocumentMoniker": "DatingApp\\DTOs\\RegisterDtos.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DTOs\\RegisterDtos.cs",
+              "RelativeToolTip": "DatingApp\\DTOs\\RegisterDtos.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:36:49.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberDTO.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DTOs\\MemberDTO.cs",
+              "RelativeDocumentMoniker": "DatingApp\\DTOs\\MemberDTO.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DTOs\\MemberDTO.cs",
+              "RelativeToolTip": "DatingApp\\DTOs\\MemberDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T16:49:38.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApiException.cs",
-              "DocumentMoniker": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\Errors\\ApiException.cs",
+              "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Errors\\ApiException.cs",
               "RelativeDocumentMoniker": "DatingApp\\Errors\\ApiException.cs",
-              "ToolTip": "E:\\worktree\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\Errors\\ApiException.cs",
+              "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Errors\\ApiException.cs",
               "RelativeToolTip": "DatingApp\\Errors\\ApiException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:39:41.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:39:41.106Z"
             }
           ]
         }

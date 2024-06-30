@@ -4387,11 +4387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\97798\\Downloads\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
+      "projectUniqueName": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
       "projectName": "DatingApp",
-      "projectPath": "C:\\Users\\97798\\Downloads\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
+      "projectPath": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DatingApp.csproj",
       "packagesPath": "C:\\Users\\97798\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\97798\\Downloads\\DotNet\\DotNetProjects\\DatingApp\\DatingApp\\obj\\",
+      "outputPath": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\97798\\AppData\\Roaming\\NuGet\\NuGet.Config",
