@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|solutionrelative:datingapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DF320223-CD1F-45CD-974A-7996B10DA804}|DatingApp\\DatingApp.csproj|d:\\dotnetprojects\\dotnetprojects\\datingapp\\datingapp\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,24 +50,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "DatingApp\\Controllers\\AccountController.cs",
               "ToolTip": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "DatingApp\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAswCcAAAAMAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:35:30.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T16:35:30.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\appsettings.Development.json",
               "RelativeDocumentMoniker": "DatingApp\\appsettings.Development.json",
@@ -92,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TokenService.cs",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "DatingApp\\Services\\TokenService.cs",
@@ -100,12 +99,11 @@
               "RelativeToolTip": "DatingApp\\Services\\TokenService.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAtwCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:40:09.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:40:09.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Program.cs",
               "RelativeDocumentMoniker": "DatingApp\\Program.cs",
@@ -113,8 +111,7 @@
               "RelativeToolTip": "DatingApp\\Program.cs",
               "ViewState": "AQIAAC4AAAAAAAAAAAAAADUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-26T09:39:55.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-26T09:39:55.689Z"
             },
             {
               "$type": "Document",
@@ -130,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AppUser.cs",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "DatingApp\\Entities\\AppUser.cs",
@@ -138,12 +135,11 @@
               "RelativeToolTip": "DatingApp\\Entities\\AppUser.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAA4wAwAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:35:46.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T16:35:46.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterDtos.cs",
               "DocumentMoniker": "D:\\DotNetProjects\\DotNetProjects\\DatingApp\\DatingApp\\DTOs\\RegisterDtos.cs",
               "RelativeDocumentMoniker": "DatingApp\\DTOs\\RegisterDtos.cs",
@@ -151,8 +147,7 @@
               "RelativeToolTip": "DatingApp\\DTOs\\RegisterDtos.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAUwAcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T16:36:49.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-29T16:36:49.556Z"
             },
             {
               "$type": "Document",
